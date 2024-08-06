@@ -1,1 +1,1 @@
-A personal website built using HTML, CSS, and JavaScript
+A personal website built using HTML, and CSS
